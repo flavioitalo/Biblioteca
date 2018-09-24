@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Cadastro de Alunos</title>
+<title>Cadastro de Alunos-flavio</title>
 </head>
 <body>
 <form action="servico" id="formulario">
